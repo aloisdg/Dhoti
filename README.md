@@ -1,6 +1,6 @@
 # Dhoti
 
-Dhoti is a wallpaper generator composed with a group of dots.
+Dhoti is a wallpaper generator composed with a group of dots. Try it on [jsbin](http://jsbin.com/cakuxijiwu/edit?html,css,js,output).
 
 ## Start
 
